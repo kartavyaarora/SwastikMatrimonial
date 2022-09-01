@@ -1,2 +1,2 @@
 # SwastikMatrimonial
-Minor project for CSE 7th Sem
+Swastik Matrimoninal Services is a Rohini (delhi) based marriage buearu which has succesfully provided their services as match makers to many people.
